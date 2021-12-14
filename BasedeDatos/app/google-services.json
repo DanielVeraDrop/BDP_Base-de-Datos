@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177278617567",
+    "project_id": "data-base-2021-ucsp",
+    "storage_bucket": "data-base-2021-ucsp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177278617567:android:e1bd167969894c6665a66a",
+        "android_client_info": {
+          "package_name": "com.example.basededatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177278617567-oedbtd34oicubnv4b6v6cikum9ltfl4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkj5TR60mca-BbnVUf1IwVwS3HV1_SrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177278617567-oedbtd34oicubnv4b6v6cikum9ltfl4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
